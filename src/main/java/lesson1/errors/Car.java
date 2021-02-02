@@ -28,7 +28,7 @@
 //        this.color = color;
 //    }
 //
-//    public String getName() {
+//    public  String getName() {
 //        return name;
 //    }
 //
